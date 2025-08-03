@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Anastazja – Junior Java Developer
+💻 I’m passionate about building clean, efficient, and scalable backend systems.
+🚀 Currently developing Job Portal, a real-world project where users can search, filter, and manage job listings.
 
-<!--
-**anastazja-glowska/anastazja-glowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Java, Spring, Spring Boot
 
-Here are some ideas to get you started:
+MySQL, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Familiar with Python and C++
+
+🎯 I’m eager to join a team where I can grow as a backend developer, contribute to real projects, and keep learning every day.
+
+📫 Let’s connect! I’m open to junior developer roles & internships.
+Email: anastazjaglowska12345@gmail.com
