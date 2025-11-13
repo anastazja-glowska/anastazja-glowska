@@ -1,15 +1,42 @@
-👋 Hi, I’m Anastazja – Junior Java Developer
-💻 I’m passionate about building clean, efficient, and scalable backend systems.
-🚀 Currently developing Job Portal, a real-world project where users can search, filter, and manage job listings.
+# 👋 Hi, I’m Anastazja – Junior Java Developer
 
-🛠️ Tech Stack
-Java, Spring, Spring Boot
+💻 I’m passionate about building clean, efficient, and scalable backend systems.  
+🚀 Currently developing **Job Portal**, a real-world project where users can search, filter, and manage job listings.
 
-MySQL, Docker
+---
 
-Familiar with Python and C++
+## 🛠️ Tech Stack & Tools
 
-🎯 I’m eager to join a team where I can grow as a backend developer, contribute to real projects, and keep learning every day.
+**Languages & Frameworks:**  
+Java 17, Spring Boot (Web, Data MongoDB, Validation, Security + JWT, Test), Spring Scheduler
 
-📫 Let’s connect! I’m open to junior developer roles & internships.
-Email: anastazjaglowska12345@gmail.com
+**Databases:**  
+PostgreSQL, MySQL, MongoDB + MongoExpress, Redis + Jedis + Redis-Commander
+
+**Testing & Tools:**  
+JUnit5, Mockito, AssertJ, Awaitility, Testcontainers, WireMock, MockMvc, SpringBootTest, SpringSecurityTest
+
+**DevOps & Utilities:**  
+Docker, Docker Compose, Docker Desktop, Maven, Log4j2, Swagger, RestTemplate, JSON, HTTP
+
+**Development Environment:**  
+IntelliJ IDEA Ultimate, Git, GitHub/GitLab
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 Fluent in English  
+- 🇩🇪 Some experience with German
+
+---
+
+## 🎯 About Me
+
+I’m eager to join a team where I can grow as a backend developer, contribute to real projects, and keep learning every day. I’m familiar with a wide range of backend technologies and tools, and I’m always excited to take on new challenges.
+
+---
+
+📫 **Let’s connect!**  
+I’m open to junior developer roles & internships.  
+📧 Email: anastazjaglowska12345@gmail.com
