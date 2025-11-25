@@ -38,5 +38,5 @@ I’m eager to join a team where I can grow as a backend developer, contribute t
 ---
 
 📫 **Let’s connect!**  
-I’m open to junior developer roles & internships.  
+I’m open to work.  
 📧 Email: anastazjaglowska12345@gmail.com
