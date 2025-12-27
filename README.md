@@ -1,7 +1,22 @@
-# 👋 Hi, I’m Anastazja – Junior Java Developer
+# 👋 Hi, I’m Anastazja – Java Developer
 
-💻 I’m passionate about building clean, efficient, and scalable backend systems.  
-🚀 Currently developing **Job Portal**, a real-world project where users can search, filter, and manage job listings.
+Java Developer with  2 years of commercial
+ experience in developing and maintaining backend 
+services using Java and Spring Boot. My main responsibilities
+ include implementing business logic, designing and securing
+ REST APIs, fixing bugs, and improving application
+performance and reliability to support stable production
+systems.I have hands-on experience with databases, caching,
+ authentication, and automated testing, and I focus on 
+delivering solutions that meet business requirements, 
+ensure system availability, and provide measurable value to
+ users. In addition to professional work, I have developed
+ independent projects, including a game application
+ used by over 90 users, demonstrating strong ownership
+ and end-to-end backend development skills. My long-term 
+goal is to grow into a technical team leader who helps
+ teams consistently achieve business objectives through
+ reliable and scalable backend solutions.
 
 ---
 
