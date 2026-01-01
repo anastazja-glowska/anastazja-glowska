@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anastazja – Java Developer
 
-Java Developer with  2 years of commercial
+Java Developer with  2 years of
  experience in developing and maintaining backend 
 services using Java and Spring Boot. My main responsibilities
  include implementing business logic, designing and securing
@@ -42,7 +42,7 @@ IntelliJ IDEA Ultimate, Git, GitHub/GitLab
 ## 🌍 Languages
 
 - 🇬🇧 Fluent in English  
-- 🇩🇪 Some experience with German
+- 🇩🇪 German B1
 
 ---
 
