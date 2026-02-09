@@ -1,54 +1,33 @@
 # 👋 Hi, I’m Anastazja – Java Developer
 
-Java Developer with  2 years of
- experience in developing and maintaining backend 
-services using Java and Spring Boot. My main responsibilities
- include implementing business logic, designing and securing
- REST APIs, fixing bugs, and improving application
-performance and reliability to support stable production
-systems.I have hands-on experience with databases, caching,
- authentication, and automated testing, and I focus on 
-delivering solutions that meet business requirements, 
-ensure system availability, and provide measurable value to
- users. In addition to professional work, I have developed
- independent projects, including a game application
- used by over 90 users, demonstrating strong ownership
- and end-to-end backend development skills. My long-term 
-goal is to grow into a technical team leader who helps
- teams consistently achieve business objectives through
- reliable and scalable backend solutions.
+📌 BLOG: https://anastazjaglowska.pl/
+
+
+I am a Java Backend Developer with commercial experience building scalable backend systems using Java, Spring Boot, and modern cloud-ready technologies. I specialize in designing secure REST APIs, implementing business logic, and delivering production-ready services that ensure reliability, performance, and measurable business value.
+
+In my current role, I develop and maintain backend services that support stable production environments, working with technologies such as Spring Boot, MongoDB, PostgreSQL, Redis, Kafka, and AWS. My responsibilities include API design and security (JWT), integration with external systems, automated background processing, performance optimization, and implementing comprehensive unit and integration testing strategies using JUnit, Mockito, WireMock, and Testcontainers. I also contribute to containerized deployments using Docker and support event-driven and microservices architectures.
+
+In addition to professional work, I actively develop independent end-to-end backend projects, including a game application used by over 90 users, demonstrating strong ownership, full lifecycle development experience, and the ability to design, build, and deploy production-style systems independently.
+
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**  
-Java 17, Spring Boot (Web, Data MongoDB, Validation, Security + JWT, Test), Spring Scheduler
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB + MongoExpress, Redis + Jedis + Redis-Commander
-
-**Testing & Tools:**  
-JUnit5, Mockito, AssertJ, Awaitility, Testcontainers, WireMock, MockMvc, SpringBootTest, SpringSecurityTest
-
-**DevOps & Utilities:**  
-Docker, Docker Compose, Docker Desktop, Maven, Log4j2, Swagger, RestTemplate, JSON, HTTP
-
-**Development Environment:**  
-IntelliJ IDEA Ultimate, Git, GitHub/GitLab
+Java, Spring Boot (Web, Data, Validation, Security, Scheduler), Spring Security, REST API, Microservices, Event-Driven Architecture, PostgreSQL, MySQL, MongoDB, Redis, Hibernate, Flyway, Apache Kafka, Maven, Lombok, Swagger / OpenAPI, JWT, JUnit 5, Mockito, REST Assured, AssertJ, Testcontainers, WireMock, MockMvc, Awaitility, Git, GitHub, GitLab, Jenkins, Docker, Docker-Compose, AWS, SCRUM, Jira, IntelliJ IDEA.
 
 ---
 
 ## 🌍 Languages
 
 - 🇬🇧 Fluent in English  
-- 🇩🇪 German B1
+- 🇩🇪 Fluent in German 
 
 ---
 
 ## 🎯 About Me
 
-I’m eager to join a team where I can grow as a backend developer, contribute to real projects, and keep learning every day. I’m familiar with a wide range of backend technologies and tools, and I’m always excited to take on new challenges.
+I am particularly interested in opportunities where I can help teams design scalable, secure, and high-performance backend platforms, while continuing to grow toward a future technical leadership role focused on building reliable systems and high-impact engineering teams.
 
 ---
 
