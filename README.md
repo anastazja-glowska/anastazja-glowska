@@ -1,6 +1,6 @@
 # Hi, I’m Anastazja 👋
 
-**Senior Java Backend Engineer | Financial Systems | Distributed Systems**
+**Senior Java Backend Engineer | Financial Systems | Banking Unit**
 
 I build and modernize production backend systems in environments where **reliability, maintainability and integration with complex enterprise infrastructure directly affect business operations**.
 
